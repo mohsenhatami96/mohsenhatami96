@@ -1,4 +1,5 @@
 
+[![Linkedin Badge](https://img.shields.io/badge/-Mohsen%20Hatami-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohsenhatami96/)](https://www.linkedin.com/in/mohsenhatami96/) [![GitHub followers](https://img.shields.io/github/followers/IVIosi?label=Follow&style=social)](https://github.com/mohsenhatami96/?tab=follow) ![profile views](https://komarev.com/ghpvc/?username=mohsenhatami96&color=brightgreen&style=flat-square)
 <!--
 **mohsenhatami96/mohsenhatami96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
