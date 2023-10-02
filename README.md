@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hi ! 👋🏻
 
+[![An image of @mohsenhatami96's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohsenhatami96)](https://holopin.io/@mohsenhatami96)
 
 **GitHub Stats**
 
